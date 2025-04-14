@@ -14,12 +14,12 @@ I'm a passionate and curious individual learning frontend development to build m
 
 ### 🛠️ Tech Stack
 
-```javascript
 Languages:     JavaScript, HTML5, CSS3  
 Frameworks:    React, Chakra UI (learning)  
 Tools & Other: Git & GitHub, VSCode, APIs  
 
 ---
+
 ### 🌐 Connect With Me
 
 - 📫 Email: contact.mehakg@gmail.com
